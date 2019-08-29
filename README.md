@@ -1,5 +1,5 @@
 # FLAC-Checker-Colab
-FLAC files Album Art Extractor &amp; FLAC file Check jupyter Notebook for Google Colab
+FLAC files Album Art Extractor + FLAC file Check + IMGUR Uploader jupyter Notebook for Google Colab
 
 <hr>
 
